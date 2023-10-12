@@ -108,6 +108,7 @@ development
 devops
 docs
 documents
+document
 documents-archive
 download
 dumps
